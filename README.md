@@ -1,29 +1,27 @@
 ## Hi there! 👋 I'm Vigneshwar D
 
 ### 🚀 About Me
-I'm a **Computer Science and Engineering (AI) student** at Sathyabama University, passionate about **backend development** and **web technologies**. I specialize in **Node.js, Express, Django, and SQL** and love building **scalable and efficient web applications**.
+I'm a **Computer Science and Engineering  student** at Sathyabama University, passionate about **Full stack development** and **web technologies**. I specialize in **React, Node.js, Express and Mongodb** and alwyas keen in building **scalable and efficient web applications**.
 
 ### 🔭 Current Focus
-- Learning **Spring** for backend development
+- Learning **Express** for backend development
 - Sharpening my **DSA skills daily**
-- Developing an **AI-enabled online tutor app**
-- Preparing for **my future Master's in AI/CS** at **TUM or TU Delft**
+- Developing an **Decentrelized File Sharing System**
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, C++, SQL
-- **Backend:** Node.js, Express, Django
-- **Frontend:** React, HTML, CSS
-- **Databases:** MySQL, PostgreSQL
-- **Other Tools:** Git, REST APIs, Postman
+- **Languages:** Java, Python, JavaScript
+- **Backend:** Node.js, Express
+- **Frontend:** React, Tailwind
+- **Databases:** MySQL, MongoDb
 
 ### 👯 Collaboration & Interests
-- Open to **backend development** and **full-stack web projects**
+- Open to **frontend development** and **full-stack web projects**
 - Exploring **AI integrations** into web applications
-- Open-source contributions 🚀
+- Started to contribute on a open source projects🚀
 
 ### 📫 Connect with Me
 - **GitHub:** [Vigneshwar0310](https://github.com/Vigneshwar0310)
 - **Email:** vigneshwardurairaj3@gmail.com
-- **LinkedIn:** [Coming Soon!]
+- **LinkedIn:** [Vigneshwar03](https://www.linkedin.com/in/vignesh-d-7739452b9/)
 
-⚡ Fun fact: I recently started **watching movies** to improve my **English communication!** 🎬😃
+
