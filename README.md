@@ -10,8 +10,8 @@ I'm a **Computer Science and Engineering  student** at Sathyabama University, pa
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, Python, JavaScript
-- **Backend:** Node.js, Express
-- **Frontend:** React, Tailwind
+- **Backend:** Node.js, Express.js
+- **Frontend:** React, Tailwind CSS
 - **Databases:** MySQL, MongoDb
 
 ### 👯 Collaboration & Interests
